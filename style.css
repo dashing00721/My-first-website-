@@ -50,5 +50,7 @@ blockquote {
     width: 100%;
     padding: 12px;
     font-size: 16px;
-  }
+  }body {
+  padding: 20px;
+}
 }
